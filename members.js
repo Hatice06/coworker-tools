@@ -45,5 +45,5 @@ const members = [
     timezone: "America/Los_Angeles",
   },
 ];
-=======
+
 module.exports = members;
